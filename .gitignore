@@ -1,0 +1,26 @@
+# Dependencies
+node_modules
+.pnp
+.pnp.js
+
+# Testing
+coverage
+.nyc_output
+
+# Build
+dist
+build
+out
+.next
+
+# Misc
+.DS_Store
+*.log
+.env
+.env.local
+.vscode
+.idea
+
+# Aciloc Specific
+/generated-code
+/artifacts

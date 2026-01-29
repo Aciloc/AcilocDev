@@ -1,0 +1,6 @@
+{
+    "name": "@aciloc/air-spec",
+    "version": "0.0.0",
+    "main": "index.ts",
+    "description": "The Aciloc Intermediate Representation (AIR) Specification"
+}
